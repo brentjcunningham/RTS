@@ -1,0 +1,49 @@
+---
+title: "FAQ"
+---
+
+<h1><b>**A quick reminder of the process**</b></h1>
+
+<p>Over your next four exercise sessions you will complete each of surveys three times during your exercise session.</p>
+
+<ul><li>Pre-session – prior to starting exercise</li></ul>
+
+<ul><li>Post warm-up – following your warm-up or after 5 minutes of movement</li></ul>
+
+<ul><li>Post session – complete within 30 minutes of completing your exercise session</li></ul>
+
+<p>When you click on the link to a survey, it will open a new tab. When you’ve submitted your survey responses you can close the tab.
+
+Each time you wish to complete the next survey, simply open the webpage again and click the link for the next survey.
+
+I suggest adding the webpage to your home screen for convenience as you can simply click this each time you attend your exercise session or each time you need to complete the survey.</p>
+
+**Create Website Shortcut**
+
+The home screen on your smartphone or tablet isn't just a place where your apps live. You can also add shortcuts to websites. Here's how to create an "app" for any website on your device, allowing you to access shortcuts directly from your home screen.
+
+**iPhone or iPad**
+
+1.   Open Safari. Other browsers, such as Chrome, won't work for this.
+
+2.   Navigate to the website you want to save to your home screen by entering the URL of the website you want to create a shortcut to. Make sure you visit the exact page you want to open through the shortcut. Tap "Go."
+
+3.  Tap the **Share** button on the bottom of the page. It looks like a square with an arrow pointing out of the top.
+
+4.  In the list of options that appear, scroll down until you see **Add to Home Screen**. Tap this. The Add to Home Screen dialog box will appear.
+
+5.  Choose a name for the website shortcut on your home screen. You'll see the link so you can confirm it, as well as the site's favicon that will appear as the "app" icon on your home screen. Click **Add** when you're done. Safari will close automatically, and you will be taken to where the icon is located on your iPhone's or iPad's home screen.
+
+6.  Now just tap the new "app" or shortcut on your home screen, and it will open the website in its own navigation window, independent of what you have open in Safari.
+
+    Note: If you ever decide you want to remove the website shortcut, you can delete it just like you would any other app on your phone.
+
+**Android**
+
+1.   Open Chrome.
+
+2.   Navigate to the website or web page you want to pin to your home screen.
+
+3.   Tap the menu icon (3 dots in upper right-hand corner) and tap **Add** to home screen.
+
+4.   Choose a name for the website shortcut, then Chrome will add it to your home screen.

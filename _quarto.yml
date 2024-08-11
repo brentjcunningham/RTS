@@ -3,18 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "RTS"
+  title: "Y'all ready for this?: Construct validation of a readiness to train scale"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - FAQ.qmd  
+        
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 
 editor: visual
-
