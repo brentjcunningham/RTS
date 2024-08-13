@@ -2,9 +2,7 @@
 title: "FAQ"
 ---
 
-<h1><b>**A quick reminder of the process**</b></h1>
-
-<p>Over your next four exercise sessions you will complete each of surveys three times during your exercise session.</p>
+<h3><b>**A quick reminder of the process**</b></h3> Over your next four exercise sessions you will complete each of surveys three times during your exercise session.</p>
 
 <ul><li>Pre-session – prior to starting exercise</li></ul>
 
@@ -24,9 +22,9 @@ The home screen on your smartphone or tablet isn't just a place where your apps 
 
 **iPhone or iPad**
 
-1.   Open Safari. Other browsers, such as Chrome, won't work for this.
+1.  Open Safari. Other browsers, such as Chrome, won't work for this.
 
-2.   Navigate to the website you want to save to your home screen by entering the URL of the website you want to create a shortcut to. Make sure you visit the exact page you want to open through the shortcut. Tap "Go."
+2.  Navigate to the website you want to save to your home screen by entering the URL of the website you want to create a shortcut to. Make sure you visit the exact page you want to open through the shortcut. Tap "Go."
 
 3.  Tap the **Share** button on the bottom of the page. It looks like a square with an arrow pointing out of the top.
 
@@ -40,10 +38,10 @@ The home screen on your smartphone or tablet isn't just a place where your apps 
 
 **Android**
 
-1.   Open Chrome.
+1.  Open Chrome.
 
-2.   Navigate to the website or web page you want to pin to your home screen.
+2.  Navigate to the website or web page you want to pin to your home screen.
 
-3.   Tap the menu icon (3 dots in upper right-hand corner) and tap **Add** to home screen.
+3.  Tap the menu icon (3 dots in upper right-hand corner) and tap **Add** to home screen.
 
-4.   Choose a name for the website shortcut, then Chrome will add it to your home screen.
+4.  Choose a name for the website shortcut, then Chrome will add it to your home screen.

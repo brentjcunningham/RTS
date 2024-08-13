@@ -7,26 +7,43 @@ link-external-newwindow: true
 format: html
 ---
 
-<h1><b>Validation of a readiness to train scale</b></p></h1>
+<h3><p><b>Thank you again for agreeing to participate in our readiness to train scale validation study</h3></b></p>
 
-<h2>Thank you again for agreeing to participate in our readiness to train scale validation study.</h2>
-<p>As a reminder, the purpose of this research project is to construct validate a reporting tool (ensure it measures what it is supposed to), to be used by exercise oncology professionals to capture patient-reported readiness to train in the cancer population. The outcome of the research will be a tool to enhance the ability of the exercise oncology professional to apply autoregulated exercise to accommodate the daily fluctuations of oncology populations, and subsequently, their readiness to train.</p>
+<p>As a reminder, this study involves completing a brief 6-question survey about how you feel before exercise, after the warm-up, and on completion of your exercise session.</p>
+</h3>
 
-<h2><b>Participation</b></h2> 
-<p>If you’re still willing to participate in this research project, you will be asked to complete a six-question readiness to train survey during each of your exercise sessions over a two-week period at three timepoints per session:  
-<ul><li>Immediately prior to commencing your exercise session (Number 1 – Pre-session); 
+<p><b>How much time will this take?</B>  
+  The survey will take approximately 1 minute to complete each time</p>
+
+<p><b>When do I need to complete this survey?</b>  
+We ask that you complete this survey at <b>three time points:</b> 
+<ul><li>Immediately prior to commencing your exercise session (<b>Pre-session – Survey #1</b>); 
 </li></ul>
-<ul><li>following your warm-up (Number 2 – Post warm-up);</li></ul>
-</li>and within thirty minutes of completing your exercise session (Number 3 – Post session).</ul></p>
+<ul><li>After your warm-up but before your exercise session (<b>Post-warm-up – Survey #2</b>); and</li></ul>
+<ul><li>Within thirty minutes of completing your exercise session (<b>Post-session – Survey #3</b>)</li></ul></p>
 
-<p>The survey will take approximately one minute to complete each time.</p>  
+<p><b>How often do I need to complete this survey?</b>  
+We ask that you repeat this process every time you come to the gym over the next <b>four</b> consecutive exercise sessions. </p>
 
-<p>Your survey data is completely de-identified, coded through your unique identifier so that it is only potentially re-identifiable to the research team.</p>
+<p><b>Why should I participate?</b>     
+Your participation will help us design a tool for exercise physiologists and physiotherapists to support people living with and beyond cancer exercise optimally during their good and bad days.</p>
 
-<p>To allow you to partake in this study, you have previously provided written consent for this project; by proceeding to complete the surveys (forms linked below) you are consenting to your data being used for the research purposes described above. Please note that your participation is voluntary. If you decide to take part and later change your mind, you are free to withdraw at any time by contacting the Chief Investigator [<a href="mailto:grose1@usc.edu.au">Contact</a>].</P>
+<p><b>Will my answers remain confidential?</b>  
+Your answers will be de-identified and will remain confidential within the research team.
+</p>
 
-<h2><b>What to do now</b></h2>
-<p>Please use the buttons below to complete your three surveys within your current exercise session. If you have any immediate questions about the scales contained within that survey or what you need to please refer to this FAQ document, or speak to your exercise physiologist.</p>
+<p><b>Is participation voluntary?</b>  
+Thank you for your prior written consent to participate in this research project. If you change your mind, you are free to withdraw at any time by contacting the Chief Investigator, Dr Grace Rose [<a href="mailto:grose1@usc.edu.au">grose1@usc.edu.au</a>].</p>
+
+<p>Your participation is completely voluntary. By completing the surveys (forms linked below) you are consenting to your data being used for the research purposes described above.</p>
+
+<p><b>What if I have questions?</b>  
+If you have any questions, please speak to your exercise physiologist, or contact the Project Coordinator, Brent Cunningham [<a href="mailto:Brent.Cunningham@research.usc.edu.au">Contact</a>]. If you have any technical questions or would like to make it easier to access the survey each time, please go to the Website FAQ tab.</P>
+
+<h3><b>What should I do now?</b></h3>
+<p>  
+Please click on the relevant link below to complete the survey three times during your current exercise session
+</p>
 
 ```{=html}
 <div class="icon-link-container"> <!-- create container for 3x links-->
@@ -64,4 +81,3 @@ format: html
 ```
 <p></p>
 
-<p>For any further questions, please contact <a href="mailto:Brent.Cunningham@research.usc.edu.au">Brent Cunningham (PhD student)</a></p>
